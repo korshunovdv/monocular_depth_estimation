@@ -1,3 +1,3 @@
-[submodule "bts"]
-	path = bts
+[submodule "networks/bts"]
+	path = networks/bts
 	url = git@github.com:korshunovdv/bts.git
