@@ -1,0 +1,3 @@
+[submodule "bts"]
+	path = bts
+	url = git@github.com:korshunovdv/bts.git
