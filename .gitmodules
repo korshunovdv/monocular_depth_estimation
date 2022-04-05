@@ -1,3 +1,6 @@
 [submodule "networks/bts"]
 	path = networks/bts
 	url = git@github.com:korshunovdv/bts.git
+[submodule "networks/DiPE"]
+	path = networks/DiPE
+	url = git@github.com:korshunovdv/DiPE.git
