@@ -4,3 +4,6 @@
 [submodule "networks/DiPE"]
 	path = networks/DiPE
 	url = git@github.com:korshunovdv/DiPE.git
+[submodule "networks/GLPDepth"]
+	path = networks/GLPDepth
+	url = git@github.com:korshunovdv/GLPDepth.git
