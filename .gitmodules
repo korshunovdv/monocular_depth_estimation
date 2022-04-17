@@ -7,6 +7,6 @@
 [submodule "networks/GLPDepth"]
 	path = networks/GLPDepth
 	url = git@github.com:korshunovdv/GLPDepth.git
-[submodule "Monocular-Depth-Estimation-Toolbox"]
-	path = Monocular-Depth-Estimation-Toolbox
+[submodule "networks/Monocular-Depth-Estimation-Toolbox"]
+	path = networks/Monocular-Depth-Estimation-Toolbox
 	url = git@github.com:korshunovdv/Monocular-Depth-Estimation-Toolbox.git
