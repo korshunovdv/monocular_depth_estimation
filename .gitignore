@@ -131,6 +131,7 @@ dmypy.json
 
 # datasets
 kitti/
+bags_historical/
 
 # mac
 .DS_Store
