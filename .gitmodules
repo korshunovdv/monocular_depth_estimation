@@ -10,3 +10,6 @@
 [submodule "networks/Monocular-Depth-Estimation-Toolbox"]
 	path = networks/Monocular-Depth-Estimation-Toolbox
 	url = git@github.com:korshunovdv/Monocular-Depth-Estimation-Toolbox.git
+[submodule "networks/monodepth2"]
+	path = networks/monodepth2
+	url = git@github.com:nianticlabs/monodepth2.git
