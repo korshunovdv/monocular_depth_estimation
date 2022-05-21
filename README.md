@@ -4,7 +4,7 @@ Monocular depth estimation
 # BTS
 
 Env setup
-conda create -n bts python=3.6
+conda create -n bts python=3.7
 conda activate bts
-conda install -y -c pytorch pytorch==1.8.1 torchvision==0.9.1
-conda install -y tqdm pandas==1.1.5
+conda install -y pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch
+conda install -y tqdm pandas ipywidgets
