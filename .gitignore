@@ -135,3 +135,5 @@ bags_historical/
 
 # mac
 .DS_Store
+
+models/
