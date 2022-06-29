@@ -1,13 +1,12 @@
 # monocular_depth_estimation
 Monocular depth estimation
 
-# BTS
 
-Env setup:
+## Env setup:
 
 ```bash
-conda create -n bts python=3.7
-conda activate bts
+conda create -n py37 python=3.7
+conda activate py37
 conda install -y pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch
 conda install -y tqdm pandas ipywidgets opencv-python
 ```
