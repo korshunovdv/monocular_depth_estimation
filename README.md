@@ -17,3 +17,5 @@ conda install -y tqdm pandas ipywidgets opencv-python
 # Colab link
 
 [profiler](https://colab.research.google.com/github/korshunovdv/monocular_depth_estimation/blob/master/profiler.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/korshunovdv/monocular_depth_estimation/blob/master/profiler.ipynb)
